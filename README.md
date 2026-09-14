@@ -1,10 +1,20 @@
 <div align="center">
 
-# EFFIGY
+# ✦ EFFIGY ✦
 
-**personal dashboard / workbench / occasional bad idea generator**
+### `2LAPETUS` / PERSONAL WORKBENCH
+
+**projects · experiments · rabbit holes · unfinished business**
+
+╭──────────────────────────────────────────────╮
+│  TEAL / VIOLET / EMERALD                    │
+│  KEEP LOOKING. KEEP MAKING. BREAK THINGS.   │
+╰──────────────────────────────────────────────╯
 
 </div>
+
+> **FIELD NOTE 001:** this is a maintained dashboard, not a résumé.
+> Things appear here because they're worth looking at.
 
 ---
 
